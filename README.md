@@ -1,2 +1,3 @@
 # react-quiz
-Quiz to test your React knowledge
+I made this quiz while following the
+Udemy course "React - The Complete Guide 2024"
